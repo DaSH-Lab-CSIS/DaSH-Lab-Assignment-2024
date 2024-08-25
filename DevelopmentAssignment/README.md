@@ -39,3 +39,5 @@ Follow the same format as Level 1 but with the following changes.
 - Add a "ClientID" key to each JSON object.
 
 - The server sends a prompt-response pair to each client. If the client receives a prompt-response that it did not send to the server, then set the value of the "Source" key in your JSON object to "user".
+
+An example is given in [output_level2.json](output_level2.json)

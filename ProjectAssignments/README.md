@@ -1,4 +1,3 @@
 # ProjectAssignments
 
-#! Add project specific assignments in each folder here
-
+All Project specific assignments go in this folder!
