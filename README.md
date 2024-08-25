@@ -16,7 +16,7 @@ This repository contains the induction assignments for DaSH Lab.
 
 - There is *one* development related assignment which is compulsory regardless of the project you are interested in.
  
-- Refer to the [README](DevAssignment/README.md) for further instructions.
+- Refer to the [README](DevelopmentAssignment/README.md) for further instructions.
 
 ## Project Specific Assignments
 
