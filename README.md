@@ -20,5 +20,7 @@ This repository contains the induction assignments for DaSH Lab.
 
 ## Project Specific Assignments
 
-- Each project has it's own specific assignment.
+- Each project has it's own specific assignment which may be present under the [ProjectAssignments](ProjectAssignments) folder.
+
+- Check the shared Google Documents for specific instructions on the assignment for each project.
 
