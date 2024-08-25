@@ -26,7 +26,7 @@ The format of the JSON Objects is as follows:
 
 - "Source" which specifies the source of the response, such as Gemma, Grok or ChatGPT etc.  
 
-An example is given in [output.json](output.json)
+An example is given in [output.json](output.json) for two prompts
 
 ### Level 2
 
@@ -39,5 +39,3 @@ Follow the same format as Level 1 but with the following changes.
 - Add a "ClientID" key to each JSON object.
 
 - The server sends a prompt-response pair to each client. If the client receives a prompt-response that it did not send to the server, then set the value of the "Source" key in your JSON object to "user".
-
-An example is given in [output_level2.json](output_level2.json)
