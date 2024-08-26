@@ -9,7 +9,7 @@ Your task is to build a basic database (DB) using OOP concepts and database mana
 
 Define the DB as an object. Internally, the database can be represented as 2D matrix. Further add functions/methods to perform database functions such as *CREATE, ALTER, DELETE* *SELECT*, aggregate functions such as *MAX*, *SUM,* operations such as *JOIN, CROSS PRODUCT.* These functions/operations should NOT use any in built method or library. The algorithm should be coded up from scratch. Create a sample test case to showcase the working of your code. Do link/mention the algorithm used for each function as a comment above the same.
 
-Feel free to restrict the usage of a function. For example the select statement can only select based on one condition. We want to test your understanding and implementation skills, mainly if you have understood the algorithm you have implemented and if you have implemented the algorithm correctly. Moreover, there is no need to implement numerous functions. Implementation of a few basic functions would suffice.
+Feel free to restrict the usage of a function. For example the select statement can only select based on one condition. We want to test your understanding and implementation skills, mainly if you have understood the algorithm you have implemented and if you have implemented the algorithm correctly. Moreover, there is no need to implement numerous functions. Implementation of a few basic functions would suffice. Use of generative AI is accepatble as long as you can explain the code and justify the design choices.
 
 Below is a basic template of how a Database object could be implemented in an Object Oriented manner.
 
@@ -131,6 +131,6 @@ public:
 ```
 
 ## Task 3
-If time permits, go through either one of these papers>
+If time permits, go through either one of these papers:
 Paper 1 - Evaluation of columnar formats: https://arxiv.org/pdf/2304.05028
 Paper 2 - Dremel: https://www.vldb.org/pvldb/vol13/p3461-melnik.pdf
