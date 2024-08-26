@@ -4,7 +4,7 @@ This repository contains the induction assignments for DaSH Lab.
 
 ## General Instructions
 
-- Refer to the [Google Document](https://docs.google.com/document/d/1oK0p87q-WvWZB3XpIarPaVZF3DQUhFqfxLy2yW__mEg/edit?usp=sharing](https://docs.google.com/document/d/1oK0p87q-WvWZB3XpIarPaVZF3DQUhFqfxLy2yW__mEg/pub) for any and all instructions
+- Refer to the [Google Document](https://docs.google.com/document/d/1oK0p87q-WvWZB3XpIarPaVZF3DQUhFqfxLy2yW__mEg/pub) for any and all instructions
 
 - The submission should be primarily in the form of a Git repo titled DaSH-Lab-Assignment-2024. The repo should be kept private up until the submission deadline. Make sure you make the repo public while submitting the assignment.
 
